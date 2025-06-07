@@ -1,0 +1,2 @@
+This is a writable file
+simply
