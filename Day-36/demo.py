@@ -80,3 +80,6 @@ if abs(diff_percent) > 1:
 
 
  
+
+
+ 
